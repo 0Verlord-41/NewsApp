@@ -1,0 +1,47 @@
+body{
+    box-sizing: border-box;
+}
+
+.section{
+    width: 80%;
+    margin: 0 auto 2px;
+}
+
+.navbar {
+    color: #fbaf3f;
+    background-color: black;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fbaf3f;
+}
+
+.navbar ul li {
+    text-decoration: none;
+    color: #fbaf3f;
+}
+    
+.navbar ul li:hover {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.navbar ul .dd {
+    background-color: black;
+}
+
+.navbar button{
+    color: aliceblue;
+}
+
+div h1 {
+    font-family: 'Righteous', cursive;
+}
+
+.card {
+    -webkit-box-shadow: 0px 0px 37px 2px rgba(0, 0, 0, 0.43);
+    -moz-box-shadow: 0px 0px 37px 2px rgba(0,0,0,0.43);
+    box-shadow: 0px 0px 37px 2px rgba(0,0,0,0.43); ;
+}
